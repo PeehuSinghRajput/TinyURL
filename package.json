@@ -20,9 +20,11 @@
   },
   "homepage": "https://github.com/PeehuSinghRajput/TinyURL#readme",
   "dependencies": {
+    "dotenv": "^16.5.0",
     "ejs": "^3.1.10",
     "express": "^5.1.0",
     "mongoose": "^8.15.0",
+    "nodemon": "^3.1.10",
     "shortid": "^2.2.17"
   }
 }
